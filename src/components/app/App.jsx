@@ -6,7 +6,7 @@ import { selectIsRefreshing } from "../../redux/auth/selectors";
 import Layout from "../layout/Layout";
 import { refreshUser } from "../../redux/auth/operations";
 import NotFoundPage from "../../pages/notFoundPage/notFoundPage";
-import css from "./App.module.css";
+import "./App.module.css";
 import PrivateRoute from "../PrivateRoute";
 import RestrictedRoute from "../RestrictedRoute";
 
