@@ -1,5 +1,5 @@
 import css from "./LoginPage.module.css";
-import LoginForm from "../../components/LoginForm/LoginForm";
+import LoginForm from "../../components/loginForm/LoginForm";
 import PageTitle from "../../components/pageTitle/PageTitle";
 
 export default function LoginPage() {
