@@ -1,0 +1,40 @@
+.icon {
+    margin-right: 8px;
+    color: #213547;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 12px;
+    width: 100%;
+    max-width: 400px;
+}
+
+.name {
+    margin: 0;
+}
+
+.number {
+    margin: 0;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 8px 16px;
+    cursor: pointer;
+
+    border: 1px solid black;
+    border-radius: 0px;
+}
+
+.btn:hover {
+    color: rgb(255, 255, 255);
+    background-color: #213547;
+}
